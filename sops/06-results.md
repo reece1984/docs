@@ -43,8 +43,8 @@ description: "Navigate the Results page to triage, filter, and prioritise every 
 8. **Open a finding.** Click any finding row (or press Enter) to enter the Finding Detail view for full evidence review.
 
 ## What happens next
-- Drill into individual findings: [SOP 07 -- Reviewing Findings](/sops/07-finding-detail).
-- Work through the review queue systematically: [SOP 11 -- Review Queue](/sops/11-review-queue).
+- Drill into individual findings: [Reviewing Findings](/sops/07-finding-detail).
+- Work through the review queue systematically: [Review Queue](/sops/11-review-queue).
 - See the reference diagram: `review-workflow.md`.
 
 ## Common questions

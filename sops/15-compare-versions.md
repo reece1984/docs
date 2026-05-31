@@ -28,7 +28,7 @@ description: "View the diff between assessment runs to track what changed -- fin
 
 4. Use the **diff toggle** to switch between a side-by-side view and an inline view, depending on your preference.
 
-5. Click any finding in the comparison to open its detail page for full context (see [SOP 07 -- Finding Detail](/sops/07-finding-detail)).
+5. Click any finding in the comparison to open its detail page for full context (see [Finding Detail](/sops/07-finding-detail)).
 
 ### Telling the story of improvement
 
@@ -36,12 +36,12 @@ description: "View the diff between assessment runs to track what changed -- fin
 
 7. Track progress over multiple runs by comparing non-adjacent versions (e.g., version 1 vs version 5) to show the full improvement trajectory.
 
-8. Pair version comparison with the summary page (see [SOP 09 -- Summary](/sops/09-summary-page)) to provide both the current state and the change narrative in a single briefing.
+8. Pair version comparison with the summary page (see [Summary](/sops/09-summary-page)) to provide both the current state and the change narrative in a single briefing.
 
 ## What happens next
 - Version comparison data supports the executive summary narrative, showing evidence of continuous improvement.
-- If the comparison reveals new findings, investigate them via the results page (see [SOP 06 -- Results & Findings Overview](/sops/06-results)).
-- Resolved findings linked to actions demonstrate that remediation work is having the intended effect (see [SOP 13 -- Managing Actions](/sops/13-actions)).
+- If the comparison reveals new findings, investigate them via the results page (see [Results & Findings Overview](/sops/06-results)).
+- Resolved findings linked to actions demonstrate that remediation work is having the intended effect (see [Managing Actions](/sops/13-actions)).
 
 ## Common questions
 
@@ -52,4 +52,4 @@ A: Every assessment run is retained as a version. There is no automatic pruning.
 A: The comparison focuses on findings, ratings, and reviewer decisions. Document-level changes (new uploads, replacements) are reflected indirectly through the findings they produce.
 
 **Q: Can I share a version comparison with someone outside the platform?**
-A: Version comparison data feeds into the PDF executive report. Generate a report from the summary page to share externally (see [SOP 09 -- Summary](/sops/09-summary-page)).
+A: Version comparison data feeds into the PDF executive report. Generate a report from the summary page to share externally (see [Summary](/sops/09-summary-page)).

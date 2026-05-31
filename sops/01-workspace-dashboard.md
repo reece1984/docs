@@ -5,7 +5,7 @@ description: "Understand the portfolio-level dashboard and use it to monitor ass
 ---
 
 ## Before you start
-- You are logged in to Programme Insights (see [SOP 00](/sops/00-getting-started)).
+- You are logged in to Programme Insights (see [guide 00](/sops/00-getting-started)).
 - You have at least Viewer permissions on the workspace.
 
 ## Steps
@@ -35,7 +35,7 @@ description: "Understand the portfolio-level dashboard and use it to monitor ass
    - Progress bar with percentage complete
    - Estimated time remaining
 
-4. Click any running assessment row to jump into its live progress view (see [SOP 05](/sops/05-running-assessments)).
+4. Click any running assessment row to jump into its live progress view (see [guide 05](/sops/05-running-assessments)).
 
 ### Checking upcoming deadlines
 
@@ -43,12 +43,12 @@ description: "Understand the portfolio-level dashboard and use it to monitor ass
 
 ### Starting a new assessment
 
-6. Click the **New Assessment** button (top-right of the dashboard or in the running assessments panel) to launch the creation wizard. See [SOP 04](/sops/04-creating-assessments) for the full walkthrough.
+6. Click the **New Assessment** button (top-right of the dashboard or in the running assessments panel) to launch the creation wizard. See [guide 04](/sops/04-creating-assessments) for the full walkthrough.
 
 ## What happens next
-- Create a new assessment: [SOP 04 -- Creating a New Assessment](/sops/04-creating-assessments)
-- Connect documents to an assessment: [SOP 02 -- Connecting & Managing Documents](/sops/02-documents)
-- Understand what happens when an assessment runs: [SOP 05 -- Running & Monitoring Assessments](/sops/05-running-assessments)
+- Create a new assessment: [Creating a New Assessment](/sops/04-creating-assessments)
+- Connect documents to an assessment: [Connecting & Managing Documents](/sops/02-documents)
+- Understand what happens when an assessment runs: [Running & Monitoring Assessments](/sops/05-running-assessments)
 
 ## Common questions
 

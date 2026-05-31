@@ -7,7 +7,7 @@ description: "Use the two-pane reviewer workspace to evaluate AI-surfaced eviden
 ## Before you start
 - You must be assigned as a **Reviewer** on the finding, or hold **Admin** role on the assessment.
 - The assessment must be in **Reviewing** status.
-- Open the finding from the Results page ([SOP 06](/sops/06-results)) or the Review Queue.
+- Open the finding from the Results page ([guide 06](/sops/06-results)) or the Review Queue.
 
 ## Steps
 
@@ -37,7 +37,7 @@ description: "Use the two-pane reviewer workspace to evaluate AI-surfaced eviden
    - **Action title** -- a concise description of what needs doing.
    - **Owner** -- the person responsible.
    - **Deadline** -- target completion date.
-   The action appears on the Actions page ([SOP 13](/sops/13-actions)) and links back to this finding.
+   The action appears on the Actions page ([guide 13](/sops/13-actions)) and links back to this finding.
 
 8. **Complete sign-off.** The sign-off button activates only when every evidence requirement on the finding has a decision (Accept, Challenge, or Create Action). Queried requirements must be resolved first. Click **Sign Off** to lock your review.
 
@@ -49,9 +49,9 @@ description: "Use the two-pane reviewer workspace to evaluate AI-surfaced eviden
    - **Esc** -- close the finding detail and return to Results.
 
 ## What happens next
-- Return to the results list to continue triage: [SOP 06 -- Understanding Results](/sops/06-results).
-- Generate remediation content for RED/AMBER findings: [SOP 08 -- Generating Content](/sops/08-content-generation).
-- Manage actions created during review: [SOP 13 -- Actions](/sops/13-actions).
+- Return to the results list to continue triage: [Understanding Results](/sops/06-results).
+- Generate remediation content for RED/AMBER findings: [Generating Content](/sops/08-content-generation).
+- Manage actions created during review: [Actions](/sops/13-actions).
 - See the reference diagram: `review-workflow.md`.
 
 ## Common questions

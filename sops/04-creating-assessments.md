@@ -5,10 +5,10 @@ description: "Walk through the new assessment wizard to set up a framework, conn
 ---
 
 ## Before you start
-- You are logged in to Programme Insights (see [SOP 00](/sops/00-getting-started)).
+- You are logged in to Programme Insights (see [guide 00](/sops/00-getting-started)).
 - You have Reviewer or Admin permissions on the workspace.
-- You know which framework you want to assess against (browse the library first if unsure -- see [SOP 03](/sops/03-frameworks-library)).
-- Your documents are accessible via SharePoint or ready for manual upload (see [SOP 02](/sops/02-documents)).
+- You know which framework you want to assess against (browse the library first if unsure -- see [guide 03](/sops/03-frameworks-library)).
+- Your documents are accessible via SharePoint or ready for manual upload (see [guide 02](/sops/02-documents)).
 
 ## Steps
 
@@ -24,17 +24,17 @@ The wizard is deliberately short. There are **three required fields** and one op
 
 2. **Assessment Name** -- give the assessment a descriptive name (e.g. "HS2 Phase 2b -- Gateway 3 Review, May 2026"). This name appears throughout the platform and in reports.
 
-3. **Framework** -- select the criteria framework this assessment will use. Start typing to search, or browse the full list. Each assessment uses exactly one framework. See [SOP 03](/sops/03-frameworks-library) for details on what frameworks are available.
+3. **Framework** -- select the criteria framework this assessment will use. Start typing to search, or browse the full list. Each assessment uses exactly one framework. See [guide 03](/sops/03-frameworks-library) for details on what frameworks are available.
 
 4. **Document Source** -- choose how to connect your documents:
    - **SharePoint folder** -- provide the SharePoint site URL and folder path. The platform discovers all files in the folder and subfolders.
    - **Manual upload** -- drag and drop files or browse to select.
 
-   See [SOP 02](/sops/02-documents) for full details on document connection.
+   See [guide 02](/sops/02-documents) for full details on document connection.
 
 ### Adding the optional field
 
-5. **Programme / Initiative tag** (optional) -- assign this assessment to a programme or initiative for cross-assessment grouping. Initiatives let you track multiple assessments (e.g. different gateway stages for the same project) as a cohesive portfolio. See SOP 14 -- Initiatives (forthcoming) for more.
+5. **Programme / Initiative tag** (optional) -- assign this assessment to a programme or initiative for cross-assessment grouping. Initiatives let you track multiple assessments (e.g. different gateway stages for the same project) as a cohesive portfolio. See Initiatives (forthcoming) for more.
 
 ### Configuring assessment preferences
 
@@ -52,12 +52,12 @@ The wizard is deliberately short. There are **three required fields** and one op
 
 8. Click **Create Assessment**. The assessment is created in **draft** state.
 
-9. To start the assessment pipeline, click **Run Assessment** from the assessment summary page. See [SOP 05](/sops/05-running-assessments) for what happens next.
+9. To start the assessment pipeline, click **Run Assessment** from the assessment summary page. See [guide 05](/sops/05-running-assessments) for what happens next.
 
 ## What happens next
-- Understand the assessment pipeline: [SOP 05 -- Running & Monitoring Assessments](/sops/05-running-assessments)
-- Browse frameworks before choosing one: [SOP 03 -- Browsing the Frameworks Library](/sops/03-frameworks-library)
-- Connect documents in advance: [SOP 02 -- Connecting & Managing Documents](/sops/02-documents)
+- Understand the assessment pipeline: [Running & Monitoring Assessments](/sops/05-running-assessments)
+- Browse frameworks before choosing one: [Browsing the Frameworks Library](/sops/03-frameworks-library)
+- Connect documents in advance: [Connecting & Managing Documents](/sops/02-documents)
 
 ## Common questions
 

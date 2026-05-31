@@ -50,8 +50,8 @@ If you only have one or two assessments, you probably do not need initiatives.
 10. Use the initiative view when reporting to programme boards -- it provides the cross-cutting view that individual assessments cannot.
 
 ## What happens next
-- Initiative rollup data feeds into the dashboard (see [SOP 01 -- Workspace Dashboard](/sops/01-workspace-dashboard)).
-- Individual assessments within an initiative follow the standard workflow: documents, assessment run, results, review (see [SOP 04 -- Creating an Assessment](/sops/04-creating-assessments)).
+- Initiative rollup data feeds into the dashboard (see [Workspace Dashboard](/sops/01-workspace-dashboard)).
+- Individual assessments within an initiative follow the standard workflow: documents, assessment run, results, review (see [Creating an Assessment](/sops/04-creating-assessments)).
 
 ## Common questions
 

@@ -7,7 +7,7 @@ description: "Use AI-assisted content generation to draft remediation text for R
 ## Before you start
 - The finding must have a **RED** or **AMBER** rating -- content generation is not available for GREEN findings.
 - You need **Reviewer** or **Admin** role on the assessment.
-- Familiarise yourself with the finding's evidence gaps first via the Finding Detail view ([SOP 07](/sops/07-finding-detail)).
+- Familiarise yourself with the finding's evidence gaps first via the Finding Detail view ([guide 07](/sops/07-finding-detail)).
 
 ## Steps
 
@@ -45,8 +45,8 @@ description: "Use AI-assisted content generation to draft remediation text for R
 8. **Check generation analytics.** A generation analytics dashboard is available from the content generation workspace. It shows aggregate statistics across the assessment: how many findings have generated content, acceptance rates, and average confidence scores.
 
 ## What happens next
-- Return to the finding to continue review: [SOP 07 -- Reviewing Findings](/sops/07-finding-detail).
-- Continue working through results: [SOP 06 -- Understanding Results](/sops/06-results).
+- Return to the finding to continue review: [Reviewing Findings](/sops/07-finding-detail).
+- Continue working through results: [Understanding Results](/sops/06-results).
 - See the reference diagram: `content-generation-flow.md`.
 
 ## Common questions

@@ -40,8 +40,8 @@ description: "Ask natural-language questions about your documents, criteria, or 
 - **Ask about criteria**: scope to a criterion and ask "Which documents provide evidence for this requirement?" or "What gaps exist against this criterion?"
 
 ## What happens next
-- Insights from chat can inform your review decisions -- navigate to the finding detail to accept or challenge (see [SOP 07 -- Finding Detail](/sops/07-finding-detail)).
-- If chat reveals a missing document, upload it via the documents page (see [SOP 02 -- Documents](/sops/02-documents)).
+- Insights from chat can inform your review decisions -- navigate to the finding detail to accept or challenge (see [Finding Detail](/sops/07-finding-detail)).
+- If chat reveals a missing document, upload it via the documents page (see [Documents](/sops/02-documents)).
 
 ## Common questions
 

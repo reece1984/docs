@@ -5,7 +5,7 @@ description: "Connect a document source, monitor processing, and understand how 
 ---
 
 ## Before you start
-- You are logged in to Programme Insights (see [SOP 00](/sops/00-getting-started)).
+- You are logged in to Programme Insights (see [guide 00](/sops/00-getting-started)).
 - You have Reviewer or Admin permissions on the workspace.
 - If using SharePoint as a source, the SharePoint site and folder must be accessible to the Programme Insights service principal (configured by your admin).
 
@@ -71,8 +71,8 @@ Manual upload is available as a fallback for documents not stored in SharePoint.
    - **Criteria Coverage** -- how many criteria reference evidence from this document.
 
 ## What happens next
-- Create an assessment that uses these documents: [SOP 04 -- Creating a New Assessment](/sops/04-creating-assessments)
-- Run the assessment and watch it process: [SOP 05 -- Running & Monitoring Assessments](/sops/05-running-assessments)
+- Create an assessment that uses these documents: [Creating a New Assessment](/sops/04-creating-assessments)
+- Run the assessment and watch it process: [Running & Monitoring Assessments](/sops/05-running-assessments)
 
 ## Common questions
 

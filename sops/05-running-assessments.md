@@ -5,8 +5,8 @@ description: "Start an assessment run, monitor the agentic pipeline in real time
 ---
 
 ## Before you start
-- You have created an assessment in draft state (see [SOP 04](/sops/04-creating-assessments)).
-- Documents are connected and in **Processed** state (see [SOP 02](/sops/02-documents)).
+- You have created an assessment in draft state (see [guide 04](/sops/04-creating-assessments)).
+- Documents are connected and in **Processed** state (see [guide 02](/sops/02-documents)).
 - You have Reviewer or Admin permissions.
 
 ## Steps
@@ -66,8 +66,8 @@ description: "Start an assessment run, monitor the agentic pipeline in real time
    - Click **Retry** to restart the pipeline from the failed stage.
 
 ## What happens next
-- Review scored results: SOP 06 -- Understanding Results (forthcoming)
-- Drill into individual findings: SOP 07 -- Finding Detail & Review (forthcoming)
+- Review scored results: Understanding Results (forthcoming)
+- Drill into individual findings: Finding Detail & Review (forthcoming)
 
 ## Common questions
 

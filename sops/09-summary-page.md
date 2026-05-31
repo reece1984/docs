@@ -49,14 +49,14 @@ description: "Prepare and review the summary page -- the single view you send to
 9. **Use the Composer pane.** The right-hand Composer pane lets you control what appears in the summary:
    - **Include toggles** -- show or hide individual sections (e.g. five-case breakdown, top findings).
    - **Metadata** -- edit assessment title, date, and attribution.
-   - **Export options** -- generate PDF, DOCX, or PPTX from the summary (see [SOP 10](/sops/10-reports-export)).
+   - **Export options** -- generate PDF, DOCX, or PPTX from the summary (see [guide 10](/sops/10-reports-export)).
 
 10. **Share the summary.** Use the export options to produce a document suitable for the SRO. The paper-style layout is designed to print cleanly and render well in PDF.
 
 ## What happens next
-- Export a formal report: [SOP 10 -- Reports & Export](/sops/10-reports-export).
-- Drill into the findings behind the summary: [SOP 06 -- Understanding Results](/sops/06-results).
-- Compare this summary against previous versions: [SOP 15 -- Compare Versions](/sops/15-compare-versions).
+- Export a formal report: [Reports & Export](/sops/10-reports-export).
+- Drill into the findings behind the summary: [Understanding Results](/sops/06-results).
+- Compare this summary against previous versions: [Compare Versions](/sops/15-compare-versions).
 
 ## Common questions
 

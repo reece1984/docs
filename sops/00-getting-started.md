@@ -62,8 +62,8 @@ An **assessment** is the atomic unit of work: one document set assessed against 
    - Chat -- RAG-powered Q&A with citations
 
 ## What happens next
-- Explore your dashboard: [SOP 01 -- Your Workspace Dashboard](/sops/01-workspace-dashboard)
-- Create your first assessment: [SOP 04 -- Creating a New Assessment](/sops/04-creating-assessments)
+- Explore your dashboard: [Your Workspace Dashboard](/sops/01-workspace-dashboard)
+- Create your first assessment: [Creating a New Assessment](/sops/04-creating-assessments)
 
 ## Common questions
 
@@ -71,7 +71,7 @@ An **assessment** is the atomic unit of work: one document set assessed against 
 No. Programme Insights requires a Microsoft Entra ID (formerly Azure AD) organisational account. Your admin provisions access.
 
 **Q: I logged in but see an empty dashboard -- is something wrong?**
-No. A new workspace has no assessments yet. Follow SOP 04 to create your first one.
+No. A new workspace has no assessments yet. Follow guide 04 to create your first one.
 
 **Q: What browsers are supported?**
 Edge, Chrome, and Firefox (latest two major versions). Safari works but is not officially tested.

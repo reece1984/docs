@@ -5,7 +5,7 @@ description: "Explore available criteria frameworks, drill into individual crite
 ---
 
 ## Before you start
-- You are logged in to Programme Insights (see [SOP 00](/sops/00-getting-started)).
+- You are logged in to Programme Insights (see [guide 00](/sops/00-getting-started)).
 - You have at least Viewer permissions on the workspace.
 
 ## What is a framework?
@@ -59,8 +59,8 @@ Programme Insights ships with **23 pre-built config packs** covering major UK in
 8. Config packs define the module-level settings for each framework, including which categories are active, scoring weights, and assessment preferences. There are 23 pre-built config packs that can be used as-is or customised.
 
 ## What happens next
-- Use a framework to create an assessment: [SOP 04 -- Creating a New Assessment](/sops/04-creating-assessments)
-- Manage framework configuration as an admin: SOP 16 -- Admin Hub (forthcoming)
+- Use a framework to create an assessment: [Creating a New Assessment](/sops/04-creating-assessments)
+- Manage framework configuration as an admin: Admin Hub (forthcoming)
 
 ## Common questions
 

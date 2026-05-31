@@ -7,7 +7,7 @@ description: "Generate, download, and manage formal reports with full provenance
 ## Before you start
 - The assessment must be in **Complete** or **Reviewing** status.
 - You need **Reviewer** or **Admin** role to generate reports. Read-only users can view and download existing reports.
-- Ensure the assessment summary is finalised before generating a client-facing report (see [SOP 09](/sops/09-summary-page)).
+- Ensure the assessment summary is finalised before generating a client-facing report (see [guide 09](/sops/09-summary-page)).
 
 ## Steps
 
@@ -45,8 +45,8 @@ description: "Generate, download, and manage formal reports with full provenance
 8. **Review report history.** Scroll through the reports list to see every version ever generated. All reports are retained for audit trail purposes. Each entry links back to the exact assessment version and document set it was built from, ensuring full traceability.
 
 ## What happens next
-- Return to the summary to refine before re-exporting: [SOP 09 -- The Assessment Summary](/sops/09-summary-page).
-- Drill into specific findings referenced in the report: [SOP 07 -- Reviewing Findings](/sops/07-finding-detail).
+- Return to the summary to refine before re-exporting: [The Assessment Summary](/sops/09-summary-page).
+- Drill into specific findings referenced in the report: [Reviewing Findings](/sops/07-finding-detail).
 
 ## Common questions
 

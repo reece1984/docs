@@ -5,7 +5,7 @@ description: "Configure every aspect of how Programme Insights works for your or
 ---
 
 ## Before you start
-- You need **Admin** role for all operations described in this SOP.
+- You need **Admin** role for all operations described in this guide.
 - Some configuration changes (e.g., vocabulary, scoring) affect all assessments in the workspace. Coordinate with your team before making changes.
 - Config pack changes do not retroactively alter completed assessment runs. They apply to future runs only.
 
@@ -39,7 +39,7 @@ description: "Configure every aspect of how Programme Insights works for your or
    - **Categories** -- how criteria are grouped (e.g., "Commercial", "Financial", "Deliverability").
    - **Scoring rubrics** -- what each rating level (Red, Amber, Green) means for each criterion.
 
-6. Save the config pack. It becomes available for selection when creating new assessments (see [SOP 04 -- Creating an Assessment](/sops/04-creating-assessments)).
+6. Save the config pack. It becomes available for selection when creating new assessments (see [Creating an Assessment](/sops/04-creating-assessments)).
 
 ### Overlay Customisation
 
@@ -158,9 +158,9 @@ All six editors are accessible from **Admin > Organisation > Configuration**.
 32. When enabled, PII (names, email addresses, phone numbers) is automatically redacted from assessment outputs, reports, and exported data.
 
 ## What happens next
-- Config packs you create or customise become available when creating assessments (see [SOP 04 -- Creating an Assessment](/sops/04-creating-assessments)).
+- Config packs you create or customise become available when creating assessments (see [Creating an Assessment](/sops/04-creating-assessments)).
 - Vocabulary and scoring changes take effect immediately across the UI for all workspace users.
-- Frameworks configured here are browsable from the frameworks page (see [SOP 03 -- Frameworks](/sops/03-frameworks-library)).
+- Frameworks configured here are browsable from the frameworks page (see [Frameworks](/sops/03-frameworks-library)).
 
 ## Common questions
 
@@ -171,4 +171,4 @@ A: Vocabulary changes apply to the UI and future exports. Previously generated P
 A: Yes. Each overlay modification can be individually removed, restoring the base pack criterion. You can also delete the entire overlay to return to the unmodified base pack.
 
 **Q: What happens if I change strictness mid-programme?**
-A: Strictness changes apply to future assessment runs only. Previous runs retain their original ratings. Use version comparison (see [SOP 15 -- Comparing Assessment Versions](/sops/15-compare-versions)) to see the effect of strictness changes across runs.
+A: Strictness changes apply to future assessment runs only. Previous runs retain their original ratings. Use version comparison (see [Comparing Assessment Versions](/sops/15-compare-versions)) to see the effect of strictness changes across runs.

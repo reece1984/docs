@@ -13,7 +13,7 @@ description: "Track remediation work from discovery to completion -- turn assess
 
 ### Creating an action
 
-1. Navigate to a finding that represents a genuine gap (see [SOP 07 -- Finding Detail](/sops/07-finding-detail)).
+1. Navigate to a finding that represents a genuine gap (see [Finding Detail](/sops/07-finding-detail)).
 
 2. From the finding detail page, click **Create Action**. This links the new action back to its source finding so you always know why the action exists.
 
@@ -55,8 +55,8 @@ description: "Track remediation work from discovery to completion -- turn assess
 
 ## What happens next
 - Completed actions demonstrate remediation progress and feed into the executive summary narrative.
-- When you re-run an assessment after addressing actions, compare versions to see whether the finding has been resolved (see [SOP 15 -- Comparing Assessment Versions](/sops/15-compare-versions)).
-- Outstanding actions appear in dashboard summaries (see [SOP 01 -- Workspace Dashboard](/sops/01-workspace-dashboard)).
+- When you re-run an assessment after addressing actions, compare versions to see whether the finding has been resolved (see [Comparing Assessment Versions](/sops/15-compare-versions)).
+- Outstanding actions appear in dashboard summaries (see [Workspace Dashboard](/sops/01-workspace-dashboard)).
 
 ## Common questions
 

@@ -23,7 +23,7 @@ description: "Monitor, filter, and act on findings awaiting human review across 
    - **Status** -- filter by review state (e.g., Pending, Accepted, Challenged).
    - **Reviewer** -- see only findings assigned to a particular team member.
 
-4. Each finding row displays a **status pill** indicating its current review state. Click a row to open the finding detail (see [SOP 07 -- Finding Detail](/sops/07-finding-detail)).
+4. Each finding row displays a **status pill** indicating its current review state. Click a row to open the finding detail (see [Finding Detail](/sops/07-finding-detail)).
 
 5. Work through findings one by one: **Accept** the AI rating if you agree, or **Challenge** it if you disagree. Challenged findings require a reason and a revised rating.
 
@@ -43,9 +43,9 @@ description: "Monitor, filter, and act on findings awaiting human review across 
 11. Drill into **Category-Level Analysis** to see which criteria categories have the highest disagreement rates. Categories with frequent challenges may need prompt refinement or clearer evidence requirements.
 
 ## What happens next
-- Findings you accept are marked as reviewed and feed into the results page -- see [SOP 06 -- Results & Findings Overview](/sops/06-results).
+- Findings you accept are marked as reviewed and feed into the results page -- see [Results & Findings Overview](/sops/06-results).
 - Challenged findings return to the assessment owner for re-evaluation.
-- Use review analytics data to refine your config pack prompts and scoring thresholds (see [SOP 16 -- Administration & Configuration](/sops/16-admin)).
+- Use review analytics data to refine your config pack prompts and scoring thresholds (see [Administration & Configuration](/sops/16-admin)).
 
 ## Common questions
 
@@ -56,4 +56,4 @@ A: Yes. It is a workspace-level aggregation. Use filters to focus on a single as
 A: The heatmap reveals systemic patterns -- for example, if the AI consistently rates findings as Amber but reviewers downgrade them to Green, that signals the AI scoring may be too conservative. Individual findings only show one-off decisions.
 
 **Q: Can I export review analytics data?**
-A: Analytics data feeds into the executive report. For raw data export, use the reports page (see [SOP 06 -- Results & Findings Overview](/sops/06-results)).
+A: Analytics data feeds into the executive report. For raw data export, use the reports page (see [Results & Findings Overview](/sops/06-results)).
