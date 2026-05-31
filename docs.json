@@ -2,51 +2,66 @@
   "$schema": "https://mintlify.com/docs.json",
   "theme": "mint",
   "name": "Programme Insights",
+  "description": "Programme Insights user documentation — step-by-step guides for assessments, reviews, reporting, and administration.",
   "colors": {
     "primary": "#0D9488",
     "light": "#2DD4BF",
     "dark": "#0F766E"
   },
+  "favicon": "/favicon.ico",
+  "icons": {
+    "library": "lucide"
+  },
   "navigation": {
     "groups": [
       {
         "group": "Welcome",
+        "icon": "book-open",
         "pages": ["index"]
       },
       {
         "group": "Getting Started",
+        "icon": "play",
         "pages": ["sops/00-getting-started", "sops/01-workspace-dashboard"]
       },
       {
         "group": "Working with Documents",
+        "icon": "file-text",
         "pages": ["sops/02-documents", "sops/03-frameworks-library"]
       },
       {
         "group": "Running Assessments",
+        "icon": "play-circle",
         "pages": ["sops/04-creating-assessments", "sops/05-running-assessments"]
       },
       {
         "group": "Reviewing Results",
+        "icon": "clipboard-check",
         "pages": ["sops/06-results", "sops/07-finding-detail", "sops/08-content-generation"]
       },
       {
         "group": "Reporting",
+        "icon": "file-chart-column",
         "pages": ["sops/09-summary-page", "sops/10-reports-export"]
       },
       {
         "group": "Collaboration",
+        "icon": "users",
         "pages": ["sops/11-review-queue", "sops/12-chat", "sops/13-actions"]
       },
       {
         "group": "Organisation",
+        "icon": "folder-tree",
         "pages": ["sops/14-initiatives", "sops/15-compare-versions"]
       },
       {
         "group": "Administration",
+        "icon": "settings",
         "pages": ["sops/16-admin"]
       },
       {
         "group": "Reference",
+        "icon": "git-fork",
         "pages": [
           "diagrams/user-facing/assessment-lifecycle",
           "diagrams/user-facing/document-flow",
