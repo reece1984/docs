@@ -1,5 +1,6 @@
 ---
 title: "Running & Monitoring Assessments"
+sidebarTitle: "Run & Monitor"
 description: "Start an assessment run, monitor the agentic pipeline in real time, and understand assessment states."
 ---
 

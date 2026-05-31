@@ -1,5 +1,6 @@
 ---
 title: "Administration & Configuration"
+sidebarTitle: "Administration"
 description: "Configure every aspect of how Programme Insights works for your organisation -- from terminology and scoring schemes to AI prompts and report formats."
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "Document Flow"
+sidebarTitle: "Document Flow"
 description: "How documents enter the platform, get processed, and serve as evidence during assessments."
 ---
 

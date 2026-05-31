@@ -1,5 +1,6 @@
 ---
 title: "Browsing the Frameworks Library"
+sidebarTitle: "Frameworks"
 description: "Explore available criteria frameworks, drill into individual criteria, and understand how frameworks drive assessments."
 ---
 

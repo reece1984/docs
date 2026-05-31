@@ -1,5 +1,6 @@
 ---
 title: "Review Workflow"
+sidebarTitle: "Review Workflow"
 description: "How reviewers work through findings and build a defensible audit trail."
 ---
 

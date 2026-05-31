@@ -1,5 +1,6 @@
 ---
 title: "Initiatives & Grouping"
+sidebarTitle: "Initiatives"
 description: "Organise related assessments under programme-level initiatives for cross-assessment visibility and rollup reporting."
 ---
 

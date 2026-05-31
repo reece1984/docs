@@ -1,5 +1,6 @@
 ---
 title: "Understanding Results"
+sidebarTitle: "Understanding Results"
 description: "Navigate the Results page to triage, filter, and prioritise every finding surfaced by the AI assessment."
 ---
 

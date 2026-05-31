@@ -1,5 +1,6 @@
 ---
 title: "Creating a New Assessment"
+sidebarTitle: "Create an Assessment"
 description: "Walk through the new assessment wizard to set up a framework, connect documents, and configure assessment preferences."
 ---
 

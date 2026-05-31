@@ -1,5 +1,6 @@
 ---
 title: "Generating Content"
+sidebarTitle: "Generate Content"
 description: "Use AI-assisted content generation to draft remediation text for RED and AMBER findings."
 ---
 

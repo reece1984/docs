@@ -1,5 +1,6 @@
 ---
 title: "Reviewing Findings"
+sidebarTitle: "Reviewing Findings"
 description: "Use the two-pane reviewer workspace to evaluate AI-surfaced evidence, make decisions, and drive remediation."
 ---
 

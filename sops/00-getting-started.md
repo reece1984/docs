@@ -1,5 +1,6 @@
 ---
 title: "Getting Started with Programme Insights"
+sidebarTitle: "Getting Started"
 description: "Log in, orient yourself, and understand the core assessment workflow."
 ---
 

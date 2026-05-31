@@ -1,5 +1,6 @@
 ---
 title: "Content Generation Flow"
+sidebarTitle: "Content Generation"
 description: "How the platform drafts remediation content for RED and AMBER findings."
 ---
 

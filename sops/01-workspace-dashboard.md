@@ -1,5 +1,6 @@
 ---
 title: "Your Workspace Dashboard"
+sidebarTitle: "Workspace Dashboard"
 description: "Understand the portfolio-level dashboard and use it to monitor assessments, deadlines, and review workload."
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "Chat with Your Assessment"
+sidebarTitle: "Chat"
 description: "Ask natural-language questions about your documents, criteria, or findings and get answers grounded in your actual evidence with clickable citations."
 ---
 

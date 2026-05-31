@@ -1,5 +1,6 @@
 ---
 title: "Connecting & Managing Documents"
+sidebarTitle: "Documents"
 description: "Connect a document source, monitor processing, and understand how documents feed into assessments."
 ---
 

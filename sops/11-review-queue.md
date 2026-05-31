@@ -1,5 +1,6 @@
 ---
 title: "Review Queue & Analytics"
+sidebarTitle: "Review Queue"
 description: "Monitor, filter, and act on findings awaiting human review across all assessments, and measure how well the review process is calibrated."
 ---
 

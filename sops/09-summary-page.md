@@ -1,5 +1,6 @@
 ---
 title: "The Assessment Summary"
+sidebarTitle: "Assessment Summary"
 description: "Prepare and review the summary page -- the single view you send to an SRO to communicate assessment outcomes."
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "Reports & Export"
+sidebarTitle: "Reports & Export"
 description: "Generate, download, and manage formal reports with full provenance tracking."
 ---
 

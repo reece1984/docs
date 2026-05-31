@@ -1,5 +1,6 @@
 ---
 title: "Assessment Lifecycle"
+sidebarTitle: "Assessment Lifecycle"
 description: "How an assessment moves from creation to completion and reporting."
 ---
 

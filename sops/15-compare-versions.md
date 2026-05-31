@@ -1,5 +1,6 @@
 ---
 title: "Comparing Assessment Versions"
+sidebarTitle: "Compare Versions"
 description: "View the diff between assessment runs to track what changed -- findings added, findings resolved, rating movements, and reviewer decisions over time."
 ---
 
