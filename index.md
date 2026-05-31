@@ -1,4 +1,6 @@
-# Programme Insights — User Documentation
+---
+title: "Programme Insights — User Documentation"
+---
 
 Welcome to the Programme Insights user guide. These pages walk you through every part of the platform, from connecting your first documents to running assessments, reviewing findings, and generating reports.
 

@@ -1,5 +1,7 @@
-# Review Queue & Analytics
-> Monitor, filter, and act on findings awaiting human review across all assessments, and measure how well the review process is calibrated.
+---
+title: "Review Queue & Analytics"
+description: "Monitor, filter, and act on findings awaiting human review across all assessments, and measure how well the review process is calibrated."
+---
 
 ## Before you start
 - At least one assessment must have completed with findings generated.

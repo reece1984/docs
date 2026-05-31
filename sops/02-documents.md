@@ -1,5 +1,7 @@
-# Connecting & Managing Documents
-> Connect a document source, monitor processing, and understand how documents feed into assessments.
+---
+title: "Connecting & Managing Documents"
+description: "Connect a document source, monitor processing, and understand how documents feed into assessments."
+---
 
 ## Before you start
 - You are logged in to Programme Insights (see [SOP 00](/sops/00-getting-started)).

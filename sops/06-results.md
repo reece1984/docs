@@ -1,5 +1,7 @@
-# Understanding Results
-> Navigate the Results page to triage, filter, and prioritise every finding surfaced by the AI assessment.
+---
+title: "Understanding Results"
+description: "Navigate the Results page to triage, filter, and prioritise every finding surfaced by the AI assessment."
+---
 
 ## Before you start
 - At least one assessment must have completed (status: **Complete** or **Reviewing**).

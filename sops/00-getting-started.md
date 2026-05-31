@@ -1,5 +1,7 @@
-# Getting Started with Programme Insights
-> Log in, orient yourself, and understand the core assessment workflow.
+---
+title: "Getting Started with Programme Insights"
+description: "Log in, orient yourself, and understand the core assessment workflow."
+---
 
 ## Before you start
 - You need a Microsoft Entra ID account provisioned by your organisation's admin.

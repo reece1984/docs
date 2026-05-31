@@ -1,5 +1,7 @@
-# Your Workspace Dashboard
-> Understand the portfolio-level dashboard and use it to monitor assessments, deadlines, and review workload.
+---
+title: "Your Workspace Dashboard"
+description: "Understand the portfolio-level dashboard and use it to monitor assessments, deadlines, and review workload."
+---
 
 ## Before you start
 - You are logged in to Programme Insights (see [SOP 00](/sops/00-getting-started)).

@@ -1,5 +1,7 @@
-# Reports & Export
-> Generate, download, and manage formal reports with full provenance tracking.
+---
+title: "Reports & Export"
+description: "Generate, download, and manage formal reports with full provenance tracking."
+---
 
 ## Before you start
 - The assessment must be in **Complete** or **Reviewing** status.

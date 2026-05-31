@@ -1,5 +1,7 @@
-# Generating Content
-> Use AI-assisted content generation to draft remediation text for RED and AMBER findings.
+---
+title: "Generating Content"
+description: "Use AI-assisted content generation to draft remediation text for RED and AMBER findings."
+---
 
 ## Before you start
 - The finding must have a **RED** or **AMBER** rating -- content generation is not available for GREEN findings.

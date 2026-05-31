@@ -1,5 +1,7 @@
-# Reviewing Findings
-> Use the two-pane reviewer workspace to evaluate AI-surfaced evidence, make decisions, and drive remediation.
+---
+title: "Reviewing Findings"
+description: "Use the two-pane reviewer workspace to evaluate AI-surfaced evidence, make decisions, and drive remediation."
+---
 
 ## Before you start
 - You must be assigned as a **Reviewer** on the finding, or hold **Admin** role on the assessment.

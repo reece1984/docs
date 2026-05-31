@@ -1,5 +1,7 @@
-# Administration & Configuration
-> Configure every aspect of how Programme Insights works for your organisation -- from terminology and scoring schemes to AI prompts and report formats.
+---
+title: "Administration & Configuration"
+description: "Configure every aspect of how Programme Insights works for your organisation -- from terminology and scoring schemes to AI prompts and report formats."
+---
 
 ## Before you start
 - You need **Admin** role for all operations described in this SOP.

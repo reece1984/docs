@@ -1,5 +1,7 @@
-# The Assessment Summary
-> Prepare and review the summary page -- the single view you send to an SRO to communicate assessment outcomes.
+---
+title: "The Assessment Summary"
+description: "Prepare and review the summary page -- the single view you send to an SRO to communicate assessment outcomes."
+---
 
 ## Before you start
 - The assessment must be in **Complete** or **Reviewing** status.

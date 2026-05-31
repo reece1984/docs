@@ -1,5 +1,7 @@
-# Creating a New Assessment
-> Walk through the new assessment wizard to set up a framework, connect documents, and configure assessment preferences.
+---
+title: "Creating a New Assessment"
+description: "Walk through the new assessment wizard to set up a framework, connect documents, and configure assessment preferences."
+---
 
 ## Before you start
 - You are logged in to Programme Insights (see [SOP 00](/sops/00-getting-started)).

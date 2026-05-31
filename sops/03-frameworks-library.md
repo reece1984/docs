@@ -1,5 +1,7 @@
-# Browsing the Frameworks Library
-> Explore available criteria frameworks, drill into individual criteria, and understand how frameworks drive assessments.
+---
+title: "Browsing the Frameworks Library"
+description: "Explore available criteria frameworks, drill into individual criteria, and understand how frameworks drive assessments."
+---
 
 ## Before you start
 - You are logged in to Programme Insights (see [SOP 00](/sops/00-getting-started)).

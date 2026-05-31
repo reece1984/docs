@@ -1,6 +1,7 @@
-# Review Workflow
-
-> How reviewers work through findings and build a defensible audit trail.
+---
+title: "Review Workflow"
+description: "How reviewers work through findings and build a defensible audit trail."
+---
 
 ```mermaid
 flowchart TD

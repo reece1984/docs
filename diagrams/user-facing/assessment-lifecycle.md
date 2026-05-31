@@ -1,6 +1,7 @@
-# Assessment Lifecycle
-
-> How an assessment moves from creation to completion and reporting.
+---
+title: "Assessment Lifecycle"
+description: "How an assessment moves from creation to completion and reporting."
+---
 
 ```mermaid
 flowchart TD

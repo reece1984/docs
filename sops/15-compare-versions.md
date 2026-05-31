@@ -1,5 +1,7 @@
-# Comparing Assessment Versions
-> View the diff between assessment runs to track what changed -- findings added, findings resolved, rating movements, and reviewer decisions over time.
+---
+title: "Comparing Assessment Versions"
+description: "View the diff between assessment runs to track what changed -- findings added, findings resolved, rating movements, and reviewer decisions over time."
+---
 
 ## Before you start
 - The assessment must have been run at least **twice** to have two versions to compare.

@@ -1,6 +1,7 @@
-# Content Generation Flow
-
-> How the platform drafts remediation content for RED and AMBER findings.
+---
+title: "Content Generation Flow"
+description: "How the platform drafts remediation content for RED and AMBER findings."
+---
 
 ```mermaid
 flowchart TD

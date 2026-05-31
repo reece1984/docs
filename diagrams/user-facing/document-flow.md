@@ -1,6 +1,7 @@
-# Document Flow
-
-> How documents enter the platform, get processed, and serve as evidence during assessments.
+---
+title: "Document Flow"
+description: "How documents enter the platform, get processed, and serve as evidence during assessments."
+---
 
 ```mermaid
 flowchart TD

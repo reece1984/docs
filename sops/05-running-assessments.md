@@ -1,5 +1,7 @@
-# Running & Monitoring Assessments
-> Start an assessment run, monitor the agentic pipeline in real time, and understand assessment states.
+---
+title: "Running & Monitoring Assessments"
+description: "Start an assessment run, monitor the agentic pipeline in real time, and understand assessment states."
+---
 
 ## Before you start
 - You have created an assessment in draft state (see [SOP 04](/sops/04-creating-assessments)).

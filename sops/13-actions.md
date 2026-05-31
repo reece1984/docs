@@ -1,5 +1,7 @@
-# Managing Actions
-> Track remediation work from discovery to completion -- turn assessment findings into assignable, trackable actions with owners, deadlines, and audit trails.
+---
+title: "Managing Actions"
+description: "Track remediation work from discovery to completion -- turn assessment findings into assignable, trackable actions with owners, deadlines, and audit trails."
+---
 
 ## Before you start
 - At least one assessment must have findings that have been reviewed.

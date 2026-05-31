@@ -1,5 +1,7 @@
-# Initiatives & Grouping
-> Organise related assessments under programme-level initiatives for cross-assessment visibility and rollup reporting.
+---
+title: "Initiatives & Grouping"
+description: "Organise related assessments under programme-level initiatives for cross-assessment visibility and rollup reporting."
+---
 
 ## Before you start
 - You need **Admin** role to create and manage initiatives.
